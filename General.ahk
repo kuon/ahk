@@ -34,3 +34,9 @@ return
 
 ; ⋅ on alt-§
 <!VKBF::Send {U+22C5}
+
+; 「 on altgr-8
+<^>!8::Send {U+300C}
+
+; 」 on altgr-9
+<^>!9::Send {U+300D}
